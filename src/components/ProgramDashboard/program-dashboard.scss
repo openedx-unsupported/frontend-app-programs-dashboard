@@ -1,5 +1,28 @@
+@import "~@edx/brand/paragon/variables";
+
 .program-dashboard {
   .program-card {
     max-width: 25rem;
+
+    .progress-dot {
+      border-radius: 10000px;
+      height: 2rem;
+      width: 2rem;
+      color: white;
+      text-align: center;
+      line-height: 31px;
+
+      &.not-started {
+        background-color: black;
+      }
+
+      &.completed {
+        background-color: $info;
+      }
+
+      &.in-progress {
+        background-color: $success;
+      }
+    }
   }
 }
