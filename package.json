@@ -6,10 +6,10 @@
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "@edx/brand": "npm:@edx/brand-edx.org@^1.4.2",
+    "@edx/frontend-component-footer-edx": "^3.1.2",
+    "@edx/frontend-component-header-edx": "^5.0.4",
     "@edx/frontend-platform": "^1.8.4",
     "@edx/paragon": "^13.6.2",
-    "@edx/frontend-component-footer": "10.1.4",
-    "@edx/frontend-component-header": "2.2.4",
     "babel-polyfill": "^6.26.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",

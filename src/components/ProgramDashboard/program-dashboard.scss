@@ -1,9 +1,13 @@
 @import "~@edx/brand/paragon/variables";
 
 .program-dashboard {
+  .row {
+    justify-content: center;
+  }
   .program-card {
-    max-width: 25rem;
-
+    .stretched-link:hover{
+      text-decoration: none;
+    }
     .progress-dot {
       border-radius: 10000px;
       height: 2rem;
