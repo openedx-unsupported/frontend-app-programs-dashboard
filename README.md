@@ -2,9 +2,7 @@
 
 Frontend application for the OpenedX learner Program Dashboard for use with the edx-platform
 
-----------
-⚠️ NOTICE ⚠️
-----------
+## ⚠️ NOTICE ⚠️
 
-This repository has been `deprecated <https://github.com/openedx/frontend-app-programs-dashboard/issues/5>`_.
+This repository has been [deprecated](https://github.com/openedx/frontend-app-programs-dashboard/issues/5).
 It will no longer receive maintenance, bugfixes, PRs, requests, or security patches.
